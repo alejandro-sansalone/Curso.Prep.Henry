@@ -1,0 +1,13 @@
+Variables: Es como si fuera un lugar en la memoria de la
+           computadora que se usa guardar un valor que despues se 
+           puede volver a usar para hacer algun tipo de cuenta.
+
+String: Es como si fuera una cadena de caracteres, letras una al
+        lado de otra, pueden ser espacios tambien.
+
+
+Funciones: Las funcones son como una maquina, en donde se ingresa un valor (argumentos) , y la funcion devuelve (return) un resultado.
+
+If: Es una instruccion, una condicion, que poseen todos los lenguajes de programacion y se usa para tomar decisiones en cuanto al funcionamiento del programa 
+
+Los Booleanos son tipos de datos para la toma de decisiones, por ejemplo: esta encendido (true) o apagado (false) uno o cero (true y false respctivamente).
